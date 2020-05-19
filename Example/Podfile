@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'chenLib2_Example' do
+  pod 'chenLib2', :path => '../'
+
+  target 'chenLib2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
