@@ -1,0 +1,16 @@
+PODS:
+  - chenLib2 (0.1.0)
+
+DEPENDENCIES:
+  - chenLib2 (from `../`)
+
+EXTERNAL SOURCES:
+  chenLib2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  chenLib2: 86dfebf14c675e1e55b4d41e1b7962fccc49af57
+
+PODFILE CHECKSUM: 5fba394fa08269e2fec9198f063c20da5b4ef84e
+
+COCOAPODS: 1.9.1

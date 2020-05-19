@@ -1,0 +1,22 @@
+{
+  "name": "chenLib2",
+  "version": "0.1.0",
+  "summary": "A short description of chenLib2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ChenDeChickenDinner/chenLib2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ChenDeChickenDinner": "102332021@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ChenDeChickenDinner/chenLib2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "chenLib2/Classes/**/*"
+}

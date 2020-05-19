@@ -1,0 +1,6 @@
+framework module chenLib2 {
+  umbrella header "chenLib2-umbrella.h"
+
+  export *
+  module * { export * }
+}
